@@ -1,8 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://c.tenor.com/OsjrMtlzRxsAAAAi/hi-om-nom.gif" style="height:80px">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-ram-pendyala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<hr/>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ps1854" alt="view count">
+</p> -->
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sai+Ram+here...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
+</div>
+<hr/>
+
 
 <!--
-**ps1854/ps1854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
+<table align="center">
 <tr>
   <td>
     <a href="https://github-readme-stats.vercel.app/api?username=ps1854&hide=stars&show_icons=true">

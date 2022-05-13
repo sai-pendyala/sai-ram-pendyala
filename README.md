@@ -5,11 +5,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-ram-pendyala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ps1854" alt="view count">
+</p>
 <hr/>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ps1854" alt="view count">
-</p> -->
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Sai+Ram+here...;Nice+to+meet+you!&center=true&size=30">

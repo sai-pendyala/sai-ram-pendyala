@@ -69,6 +69,8 @@ hobbies: ["Watching Movies and TV", "Surfing Internet", ]
   </tr>
 </table>
 
+<h2> 📈 &nbsp;My GitHub History!</h2> 
+
 ![Snake animation](https://github.com/sai-ram-pendyala/sai-ram-pendyala/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">

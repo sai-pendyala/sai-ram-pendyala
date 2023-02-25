@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://c.tenor.com/OsjrMtlzRxsAAAAi/hi-om-nom.gif" height="150px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
+<!-- <p align="center">
+  <img src="https://c.tenor.com/OsjrMtlzRxsAAAAi/hi-om-nom.gif" height="150px">
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-ram-pendyala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -19,16 +23,39 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
 </div>
 
-<p align="center">
-  🔭 I’m a <strong>Computer Science under graduate at SRMIST</strong></br>
-  🌱 I’m currently learning <strong>Data Structures and Algorithms</strong></br>
-  👯 I’m looking to collaborate on <strong>open source projects</strong></br>
-  📫 How to reach me: <a href="mailto:sairampendyala99@gmial.com">sairampendyala99@gmial.com</a></br>
-  😄 Pronouns: <strong>He/His/Him</strong>
-</p>
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Sai Ram Pendyala
+located_in: Dwaraka Tirumala, India
+current_job: Student
+education:
+  [
+    "Self-Taught Developer",
+    "Bachelor's in Computer Science and Engineering",
+  ]
+company: -
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+  ]
+  
+technical_background:
+  [
+    "A couple of Projects in Data Science and ML",
+  ]
+  
+currently_learning: ["Web Development"]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Watching Movies and TV", "Surfing Internet", ]
+```
 <hr/>
 
-<table align="center">
+<table>
 <tr>
   <td>
     <a href="https://github-readme-stats.vercel.app/api?username=sai-ram-pendyala&hide=stars&show_icons=true">
@@ -44,15 +71,6 @@
 
 ![Snake animation](https://github.com/sai-ram-pendyala/sai-ram-pendyala/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

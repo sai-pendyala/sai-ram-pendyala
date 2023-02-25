@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-![Snake animation](https://github.com/sai-ram-pendyala/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sai-ram-pendyala/sai-ram-pendyala/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 Here are some ideas to get you started:

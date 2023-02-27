@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/sai-ram-pendyala"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ps1854" alt="view count">
+  <img src="https://komarev.com/ghpvc/?username=sai-ram-pendyala" alt="view count">
 </p>
 <hr/>
 

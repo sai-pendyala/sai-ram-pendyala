@@ -54,8 +54,8 @@ hobbies: ["Watching Movies and TV", "Surfing Internet"]
 ![](https://github-contributor-stats.vercel.app/api?username=sai-ram-pendyala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-### 📈 &nbsp;My GitHub History!
+<!-- ### 📈 &nbsp;My GitHub History!
 ![Snake animation](https://github.com/sai-ram-pendyala/sai-ram-pendyala/blob/output/github-contribution-grid-snake.svg)
 
----
+--- -->
 [![](https://visitcount.itsvg.in/api?id=sai-ram-pendyala&icon=2&color=3)](https://visitcount.itsvg.in)

@@ -9,27 +9,38 @@
 ```yaml
 name: Sai Ram Pendyala
 located_in: Dwaraka Tirumala, India
-current_job: Student
 education:
   [
-    "Self-Taught Developer",
-    "Bachelor's in Computer Science and Engineering",
+    "Bachelor's in Computer Science and Engineering - SRMIST",
   ]
-company: -
+current_job: Software Engineer
+company: NatWest Group
 
 fields_of_interests:
   [
-    "Web Development",
+    "Tableau Support",
     "Data Science",
+    "Web Development",
+    "Algorithmic Problem Solving (LeetCode)",
   ]
   
 technical_background:
   [
-    "A couple of Projects in Data Science and ML",
+    "Tableau server management and optimization",
+    "Scripting for Tableau enhancement",
+    "Programming in C, C++, Python",
+    "Data structures, algorithms",
+    "Data manipulation and visualization with NumPy, pandas, matplotlib, seaborn",
   ]
   
-currently_learning: ["Web Development"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+currently_learning: 
+  [
+    "Machine Learning",
+    "Terraform",
+    "AWS",
+  ]
+  
+2024 Goals: ["Master Machine Learning, Terraform, and AWS to advance skills and contribute to cutting-edge projects"]
 hobbies: ["Watching Movies and TV", "Surfing Internet"]
 ```
 <br>
